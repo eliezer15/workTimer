@@ -1,0 +1,29 @@
+body {
+  font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.container {
+  width: 60%;
+  padding-top: 50px;
+}
+
+.btn {
+  width: 140px;
+}
+
+#Work {
+  margin-bottom: 30px;
+}
+
+#timer {
+  float: left;
+}
+
+#report {
+  float: right;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+}
